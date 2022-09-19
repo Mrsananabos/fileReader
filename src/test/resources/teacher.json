@@ -1,0 +1,10 @@
+{
+  "name": "Olga Seeva",
+  "age": 38,
+  "gender": "woman",
+  "workExperience": 10,
+  "subjects": [
+    "russian language",
+    "literature"
+  ]
+}
